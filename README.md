@@ -1,6 +1,6 @@
 use the following steps for trimming video in laravel 
 
-1)** composer require pbmedia/laravel-ffmpeg**
+1)**composer require pbmedia/laravel-ffmpeg**
 
 2) **php artisan vendor:publish --provider="ProtoneMedia\LaravelFFMpeg\Support\ServiceProvider"**
 
